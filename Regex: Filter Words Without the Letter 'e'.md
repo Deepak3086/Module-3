@@ -25,7 +25,8 @@ print("Words without 'e':", l1)
 
 ```
 ## Output
-![Uploading image.png…]()
+<img width="652" height="203" alt="image" src="https://github.com/user-attachments/assets/f2bf8984-c9b5-4efe-ab22-96eb33a2f95b" />
+
 
 ## Result
 Thus, the python program was executed successfully
